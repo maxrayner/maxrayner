@@ -48,18 +48,26 @@ A collection of Python projects I've built while developing my programming and c
 
 ## 💼 Experience
 
+### ⚽ Football Referee
+
+**Claygate Royals** - **2025-Present**
+
+* Refereed football matches for youth teams
+* Had to make quick thinking decisions and explain them to the managers/players developing my decision making
+* Developed confidence and improved my communication skills along with fitness
+
 ### 🏏 Cricket Coach
 
-**Claygate Cricket Club]** — **2026–2027**
+**Claygate Cricket Club** - **2026-2027**
 
-* Volunteered to help coach children from **Years 1–4** during cricket training sessions
+* Volunteered to help coach children from Years 1-4 during cricket training sessions
 * Ran drills and activities to help players develop their cricket skills
-* Developed **communication, leadership and teamwork skills** by working with younger players and adapting explanations to different abilities
+* Developed communication, leadership and teamwork skills by working with younger players and adapting explanations to different abilities
 * Gained experience in organising and leading activities in a team environment
 
 ### 📐 Maths Tutoring
 
-**Royal Grammar School Guildford** — **2026**
+**Royal Grammar School Guildford** - **2026**
 
 * Volunteered for a one-off two-hour session tutoring Year 6 students in Maths
 * Developed my communication skills and ability to explain concepts clearly
