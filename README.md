@@ -12,6 +12,14 @@ I'm particularly interested in **Penetration Testing** because I enjoy the probl
 
 ---
 
+## 🏆 Certifications & Achievements
+
+* 🔐 **Google Cybersecurity Certificate** - Completed Google's cybersecurity professional certificate
+* 🥾 **Hadrian's Wall Walk** - Completed a 6-day walk across England along Hadrian's Wall coast-to-coast
+* 🏕️ **Duke of Edinburgh's Award (bronze)** - Completed the Bronze DofE programme
+
+---
+
 ## 🛠️ Technical Skills
 
 * Python
@@ -38,12 +46,48 @@ A collection of Python projects I've built while developing my programming and c
 
 ---
 
+## 💼 Experience
+
+### 🏏 Cricket Coach
+
+**[Claygate Cricket Club]** — **2026–2027**
+
+* Volunteered to help coach children from **Years 1–4** during cricket training sessions.
+* Ran drills and activities to help players develop their cricket skills.
+* Developed **communication, leadership and teamwork skills** by working with younger players and adapting explanations to different abilities.
+* Gained experience in organising and leading activities in a team environment.
+
+### 📐 Maths Tutoring
+
+**[Royal Grammar School Guildford]** — **2026**
+
+* Volunteered for a one-off two-hour session tutoring Year 6 students in Maths
+* Help in developing my communication and ability to explain concepts clearly.
+
+---
+
 ## 📚 Currently Learning
 
 * Networking
 * Linux
 * SQL
 * JavaScript
+
+---
+
+## 🎯 My Interests
+
+* 🥊 Boxing - since I was 15
+* ⚽ Football
+* 🥋 Taekwondo
+* 💻 Coding
+* 🔐 Cybersecurity
+* 💡 Technology
+* 🎮 Gaming
+* 🧩 Problem-solving & learning
+* 🥾 Hiking
+* 🚴 Cycling
+
 
 ---
 
