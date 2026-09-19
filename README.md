@@ -7,3 +7,39 @@ I'm particularly interested in **Penetration Testing** because I enjoy the probl
 [GitHub] -> https://github.com/maxrayner<br>
 [LinkedIn] -> https://www.linkedin.com/in/max-rayner-581643423<br>
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🛠️ Technical Skills
+
+* Python
+* SQL (learning)
+* Git/GitHub
+* DuckyScript
+* Linux
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🚀 Projects
+
+### ⌨️ DuckyScript Projects
+This repository contains my DuckyScript projects intended to be used for learning purposes on either Hak5's Rubber Ducky or by manipulating a Raspberry Pi Pico
+
+[View project →]
+
+### 🐍 Python Projects
+This repository contains my python projects ranging from brute force algorithms to password security checkers
+
+
+[View project →]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 📚 Currently Learning
+
+→ Networking
+→ Linux
+→ SQL
+→ JavaScript
+-> 
+
+
