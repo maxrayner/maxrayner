@@ -42,7 +42,7 @@ A collection of DuckyScript projects created for learning and experimentation us
 
 A collection of Python projects I've built while developing my programming and cybersecurity skills, ranging from brute-force algorithms to password security checkers.
 
-[View project →](https://github.com/maxrayner/Python-Projects)
+[View project →](https://github.com/maxrayner/Python)
 
 ---
 
