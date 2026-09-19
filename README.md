@@ -50,19 +50,19 @@ A collection of Python projects I've built while developing my programming and c
 
 ### 🏏 Cricket Coach
 
-**[Claygate Cricket Club]** — **2026–2027**
+**Claygate Cricket Club]** — **2026–2027**
 
-* Volunteered to help coach children from **Years 1–4** during cricket training sessions.
-* Ran drills and activities to help players develop their cricket skills.
-* Developed **communication, leadership and teamwork skills** by working with younger players and adapting explanations to different abilities.
-* Gained experience in organising and leading activities in a team environment.
+* Volunteered to help coach children from **Years 1–4** during cricket training sessions
+* Ran drills and activities to help players develop their cricket skills
+* Developed **communication, leadership and teamwork skills** by working with younger players and adapting explanations to different abilities
+* Gained experience in organising and leading activities in a team environment
 
 ### 📐 Maths Tutoring
 
-**[Royal Grammar School Guildford]** — **2026**
+**Royal Grammar School Guildford** — **2026**
 
 * Volunteered for a one-off two-hour session tutoring Year 6 students in Maths
-* Helped in developing my communication and ability to explain concepts clearly.
+* Developed my communication skills and ability to explain concepts clearly
 
 ---
 
@@ -74,17 +74,19 @@ A collection of Python projects I've built while developing my programming and c
 * SQL
 * JavaScript
 * Raspberry Pi mini home lab
+* Learning Korean and Japanese 
   
 ---
 
 ## 🎯 My Interests
 
 * 🥊 Boxing
+* 🌍 Languages
 * ⚽ Football
 * 🥋 Taekwondo
 * 💻 Coding
 * 🔐 Cybersecurity
-* 💡 Technology
+* 💡 Technology 
 * 🎮 Gaming
 * 🧩 Problem-solving & learning
 * 🥾 Hiking
