@@ -15,8 +15,8 @@ I'm particularly interested in **Penetration Testing** because I enjoy the probl
 ## 🏆 Certifications & Achievements
 
 * 🔐 **Google Cybersecurity Certificate** - Completed Google's cybersecurity professional certificate
-* 🥾 **Hadrian's Wall Walk** - Completed a 6-day walk across England along Hadrian's Wall coast-to-coast
-* 🏕️ **Duke of Edinburgh's Award (bronze)** - Completed the Bronze DofE programme
+* 🥾 **Hadrian's Wall Walk** - Completed a 6-day coast-to-coast walk across England along Hadrian's Wall
+* 🏕️ **Duke of Edinburgh's Award (Bronze)** - Completed the Bronze DofE programme
 
 ---
 
@@ -36,13 +36,13 @@ I'm particularly interested in **Penetration Testing** because I enjoy the probl
 
 A collection of DuckyScript projects created for learning and experimentation using Hak5's Rubber Ducky and Raspberry Pi Pico.
 
-[View project →](#)
+[View project →](https://github.com/maxrayner/DuckyScript)
 
 ### 🐍 Python Projects
 
 A collection of Python projects I've built while developing my programming and cybersecurity skills, ranging from brute-force algorithms to password security checkers.
 
-[View project →](#)
+[View project →](https://github.com/maxrayner/Python-Projects)
 
 ---
 
@@ -62,22 +62,24 @@ A collection of Python projects I've built while developing my programming and c
 **[Royal Grammar School Guildford]** — **2026**
 
 * Volunteered for a one-off two-hour session tutoring Year 6 students in Maths
-* Help in developing my communication and ability to explain concepts clearly.
+* Helped in developing my communication and ability to explain concepts clearly.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning/Doing
 
 * Networking
+* TryHackMe modules
 * Linux
 * SQL
 * JavaScript
-
+* Raspberry Pi mini home lab
+  
 ---
 
 ## 🎯 My Interests
 
-* 🥊 Boxing - since I was 15
+* 🥊 Boxing
 * ⚽ Football
 * 🥋 Taekwondo
 * 💻 Coding
