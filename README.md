@@ -14,9 +14,10 @@ I'm particularly interested in **Penetration Testing** because I enjoy the probl
 
 ## 🏆 Certifications & Achievements
 
-* 🔐 **Google Cybersecurity Certificate** - Completed Google's cybersecurity professional certificate
-* 🥾 **Hadrian's Wall Walk** - Completed a 6-day coast-to-coast walk across England along Hadrian's Wall
-* 🏕️ **Duke of Edinburgh's Award (Bronze)** - Completed the Bronze DofE programme
+* **Google Cybersecurity Certificate** - Completed Google's cybersecurity professional certificate
+* **Hadrian's Wall Walk** - Completed a 6-day coast-to-coast walk across England along Hadrian's Wall
+* **Guildford to Brighton Cycle** - Cycled from Guildford to Brighton (up to coast) across two days
+* **Duke of Edinburgh's Award (Bronze)** - Completed the Bronze DofE programme
 
 ---
 
