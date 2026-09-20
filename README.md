@@ -51,7 +51,7 @@ A collection of Python projects I've built while developing my programming and c
 
 ### ⚽ Football Referee
 
-**Claygate Royals** - **2024-2027**
+**Claygate Royals** - **2024-2027** *(Paid)*
 
 * Refereed football matches for youth teams
 * Had to make quick thinking decisions and explain them to the managers/players developing my decision making
@@ -59,7 +59,7 @@ A collection of Python projects I've built while developing my programming and c
 
 ### 🏏 Cricket Coach
 
-**Claygate Cricket Club** - **2026-2027**
+**Claygate Cricket Club** - **2026-2027** *(Volunteer)*
 
 * Volunteered to help coach children from Years 1-4 during cricket training sessions
 * Ran drills and activities to help players develop their cricket skills
@@ -68,7 +68,7 @@ A collection of Python projects I've built while developing my programming and c
 
 ### 📐 Maths Tutoring
 
-**Royal Grammar School Guildford** - **2026**
+**Royal Grammar School Guildford** - **2026** *(Volunteer)*
 
 * Volunteered for a one-off two-hour session tutoring Year 6 students in Maths
 * Developed my communication skills and ability to explain concepts clearly
