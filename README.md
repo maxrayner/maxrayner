@@ -1,4 +1,4 @@
-<img width="4032" height="1423" alt="image" src="https://github.com/user-attachments/assets/6cc4f662-0311-4088-9429-e077a0f3a6ef" /># Hello 👋
+### Hello 👋
 
 I'm Max Rayner, an A-Level student studying Further Maths, Maths, Computer Science and Economics, with a strong interest in cybersecurity and software development.
 
