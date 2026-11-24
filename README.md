@@ -1,113 +1,37 @@
-# Hello 👋
+<img width="4032" height="1423" alt="image" src="https://github.com/user-attachments/assets/6cc4f662-0311-4088-9429-e077a0f3a6ef" /># Hello 👋
 
-I'm **Max Rayner**, studying Further Maths, Maths, Computer Science and Economics for A-Levels.
+I'm Max Rayner, an A-Level student studying Further Maths, Maths, Computer Science and Economics, with a strong interest in cybersecurity and software development.
 
-I'm interested in **programming** and **cybersecurity**, particularly how software and systems are built, analysed and protected.
-
-I enjoy both the red and blue team sides of cybersecurity, as I like the challenge of understanding how systems can be attacked and finding ways to make them more secure.
-
-I'm particularly interested in **Penetration Testing** because I enjoy the problem-solving involved in finding and understanding vulnerabilities, and **Digital Forensics and Incident Response (DFIR)** because I'm interested in investigating what happened during an incident and piecing together how it occurred.
+I enjoy both offensive and defensive security, particularly penetration testing and digital forensics. I'm driven by the challenge of understanding how systems can be attacked, analysing digital evidence, and developing effective security solutions.
 
 [GitHub](https://github.com/maxrayner) • [LinkedIn](https://www.linkedin.com/in/max-rayner-581643423)
 
----
+--
 
-## 🏆 Certifications & Achievements
+## Projects
 
-* **Google Cybersecurity Certificate** - Completed Google's cybersecurity professional certificate
-* **Hadrian's Wall Walk** - Completed a 6-day coast-to-coast walk across England along Hadrian's Wall
-* **Guildford to Brighton Cycle** - Cycled from Guildford to Brighton (up to coast) across two days
-* **Duke of Edinburgh's Award (Bronze)** - Completed the Bronze DofE programme
+### Python Projects
 
----
-
-## 🛠️ Technical Skills
-
-* Python
-* Git/GitHub
-* DuckyScript
-* Linux
-* SQL *(learning)*
-
----
-
-## 🚀 Projects
-
-### ⌨️ DuckyScript Projects
-
-A collection of DuckyScript projects created for learning and experimentation using Hak5's Rubber Ducky and Raspberry Pi Pico.
-
-[View project →](https://github.com/maxrayner/DuckyScript)
-
-### 🐍 Python Projects
-
-A collection of Python projects I've built while developing my programming and cybersecurity skills, ranging from brute-force algorithms to password security checkers.
+A collection of Python projects exploring programming, problem-solving, and cybersecurity concepts. Projects range from password security checkers and brute-force algorithms to automation tools and other practical applications built while developing my technical skills
 
 [View project →](https://github.com/maxrayner/Python)
 
----
+### DuckyScript Projects
 
-## 💼 Experience
+A collection of DuckyScript payloads and experiments developed using Hak5's Rubber Ducky and Raspberry Pi Pico. These projects were created to explore USB automation, payload development, and cybersecurity concepts in a safe learning environment
 
-### ⚽ Football Referee
-
-**Claygate Royals** - **2024-2027** *(Paid)*
-
-* Refereed football matches for youth teams
-* Had to make quick thinking decisions and explain them to the managers/players developing my decision making
-* Developed confidence and improved my communication skills along with fitness
-
-### 🏏 Cricket Coach
-
-**Claygate Cricket Club** - **2026-2027** *(Volunteer)*
-
-* Volunteered to help coach children from Years 1-4 during cricket training sessions
-* Ran drills and activities to help players develop their cricket skills
-* Developed communication, leadership and teamwork skills by working with younger players and adapting explanations to different abilities
-* Gained experience in organising and leading activities in a team environment
-
-### 📐 Maths Tutoring
-
-**Royal Grammar School Guildford** - **2026** *(Volunteer)*
-
-* Volunteered for a one-off two-hour session tutoring Year 6 students in Maths
-* Developed my communication skills and ability to explain concepts clearly
+[View project →](https://github.com/maxrayner/DuckyScript)
 
 ---
 
-## 📚 Currently Learning/Doing
+## Certifications & Achievements
 
-* Networking
-* TryHackMe modules
-* Linux
-* SQL
-* JavaScript
-* Raspberry Pi mini home lab
-* Learning Korean and Japanese 
+* **Google Cybersecurity Certificate** - Completed Google's professional cybersecurity certificate programme
+* **UKMT Mathematics Awards** - Gold Certificates in both the Senior and Intermediate Mathematical Challenges
+* **Bebras Challenge Gold Certificate** - Achieved Gold in the national computational thinking competition
+* **Hadrian's Wall Walk** - Completed a 6-day coast-to-coast walk across England along Hadrian's Wall
+* **Guildford to Brighton Cycle** - Cycled from Guildford to Brighton across two days
+* **Duke of Edinburgh's Award (Bronze)** - Completed the Bronze DofE programme
+* **GCSEs** - Achieved 10 Grade 9s and 1 Grade 8
   
 ---
-
-## 🎯 My Interests
-
-* 🥊 Boxing
-* 🌍 Languages
-* ⚽ Football
-* 🥋 Taekwondo
-* 💻 Coding
-* 🔐 Cybersecurity
-* 💡 Technology 
-* 🎮 Gaming
-* 🧩 Problem-solving & learning
-* 🥾 Hiking
-* 🚴 Cycling
-
-
----
-
-## 🎯 Goals
-
-* Build a strong cybersecurity portfolio
-* Develop my Python programming skills
-* Learn networking and Linux in greater depth
-* Explore penetration testing and DFIR
-* Build more security-focused projects
