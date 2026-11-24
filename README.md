@@ -6,7 +6,7 @@ I enjoy both offensive and defensive security, particularly penetration testing 
 
 [GitHub](https://github.com/maxrayner) • [LinkedIn](https://www.linkedin.com/in/max-rayner-581643423)
 
---
+---
 
 ## Projects
 
